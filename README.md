@@ -14,13 +14,15 @@ Install the command using PIP: `pip install git+https://github.com/fizzday/image
 
 Tested on Debian 8 and Ubuntu WSL and mac 10.13.1
 
+## Usage
+#### command line
 Usage: `smartcrop -W 640 -H 360 -i input.jpg -o output.jpg`
 
 See `smartcrop --help`  
 
 Any Case : you can run the code in `./smartcrop/_init_.py`
 
-## example code  
+#### python source code  
 ```python
 import smartcrop
 

@@ -2,7 +2,7 @@
 
 ## description
 
-Smart crops images uisng OpenCV
+Smart crops images uisng OpenCV, forked from `epixelic/python-smart-crop`, and improve more
 
 Uses the algorithms described in https://github.com/thumbor/thumbor/wiki/Detection-algorithms but actually combining both methods. We try to detect faces on the image, then, in any case we detect features. We then combine both results with different weights, so face detection is, in this case 3,33 times stronger than feature detection.
 

@@ -20,6 +20,18 @@ See `smartcrop --help`
 
 Any Case : you can run the code in `./smartcrop/_init_.py`
 
+## example code  
+```python
+import smartcrop
+
+img_input = "input.jpg"
+img_output = "output.jpg"
+img_width = 400
+img_height = 300
+
+smartcrop.smart_crop(img_input, img_width, img_height, img_output, None)
+```
+
 ## example1
 - input.jpg  
     ![input.jpg](https://raw.githubusercontent.com/fizzday/imageCropSmart/master/smartcrop/input.jpg)  

@@ -20,7 +20,7 @@ See `smartcrop --help`
 
 Any Case : you can run the code in `./smartcrop/_init_.py`
 
-## example2
+## example1
 - input.jpg  
     ![input.jpg](https://raw.githubusercontent.com/fizzday/imageCropSmart/master/smartcrop/input.jpg)  
     - crop  
